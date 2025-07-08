@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog.
+Python is a powerful programming language.
+Generators allow you to iterate over data lazily.
+File handling is essential for data processing.
+Yield is used to return data one piece at a time.
+This is a sample file for practicing Python.
+Each line here represents a separate record.
