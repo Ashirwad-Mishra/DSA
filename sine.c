@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     double a;
     printf("Enter the angle: ");
     scanf("%lf", &a);
@@ -10,7 +11,8 @@ int main() {
     double t = A;
     int sign = -1;
 
-    for (int i = 1; i < 10; ++i) {
+    for (int i = 1; i < 10; ++i) 
+    {
         int power = 2 * i + 1;
         t *= (A * A) / (power * (power - 1));
         sine += sign * t;
